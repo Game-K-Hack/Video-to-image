@@ -1,6 +1,6 @@
 # Video-to-image
 
-##CODE
+CODE
 
     from tkinter import *
     from tkinter import filedialog
