@@ -1,4 +1,4 @@
-This site was built using [GitHub Pages](https://pages.github.com/)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.me/TheAlgorithms/100)&nbsp;
 
 # Video-to-image
 
