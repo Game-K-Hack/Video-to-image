@@ -2,8 +2,7 @@
 
 ##CODE
 
-`
-from tkinter import *
+`from tkinter import *`
 from tkinter import filedialog
 from tkinter.messagebox import *
 
